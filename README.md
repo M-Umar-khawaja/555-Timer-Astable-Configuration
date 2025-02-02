@@ -23,4 +23,4 @@ Use the formula:
 \[
 T = 0.693 (R1 + 2R2) C1
 \]  
-Or just ask **ChatGPT** to calculate the new values for you! 😊  
+Or just ask an **AI SOFTWARE** to calculate the new values for you.
